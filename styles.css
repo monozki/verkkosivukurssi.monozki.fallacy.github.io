@@ -1,0 +1,85 @@
+
+.navbar{
+	background-color: #330000;
+}
+body {	
+	background-image: url("r6.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 5px;
+}
+.footer-content{
+	text-align: right;
+	float: right;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+ul {
+	list-style-type: none;
+}
+form {
+	text-align: center;
+	color: black;
+}
+.pic {
+	float: right;
+}
+.list {
+	text-align: center;
+}
+.fallacy{
+	text-align:center;
+	margin-top: 200px;
+}
+.player{
+	height: 300px;
+	width: 300px;
+}
+.third-grid {
+	color:  white;
+}
+#fallacy2 {
+	height: 30px;
+	width: 30px;
+}
+#twitter {
+	height: 24px;
+	width: 40px;
+	padding: 3px;
+}
+#youtube {
+	height: 30px;
+	width: 30px;
+	padding: 3px;
+}
+#discord {
+	height: 30px;
+	width: 30px;
+	padding: 3px;
+}
+#twitter1 {
+	height: 300px;
+	width: 500px;
+	padding: 3px;
+}
+#youtube1 {
+	height: 500px;
+	width: 500px;
+	padding: 3px;
+}
+#discord1 {
+	height: 500px;
+	width: 500px;
+	padding: 3px;
+}
